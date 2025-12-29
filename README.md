@@ -68,7 +68,7 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=chartreuse&font=Audiowide&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=transparent&font=BIZ%20UDMincho&ext=heatmap)
 
 
 
