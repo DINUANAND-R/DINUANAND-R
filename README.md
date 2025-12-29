@@ -1,3 +1,19 @@
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=JetBrains+Mono
+    &size=22
+    &pause=1200
+    &duration=3000
+    &color=36BCF7
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Full+Stack+Developer;Blockchain+Developer;Exploring+DevOps;Problem+Solving+%7C+DSA+%7C+Machine+Learning" />
+</h3>
+
+
+
 ## 👋 About Me
 
 - 🌱 Always learning and improving as a developer
