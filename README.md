@@ -68,9 +68,6 @@
 
 
 
-## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Your_Username?theme=chartreuse&font=Audiowide&ext=heatmap)
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=chartreuse&font=Audiowide&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
