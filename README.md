@@ -66,8 +66,9 @@
   <img src="https://img.icons8.com/nolan/64/wireshark--v1.png" title="Wireshark" alt="Wireshark" width="55" height="55"/>
 </p>
 
+## 📊 LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=chartreuse&font=Audiowide&ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Your_Username?theme=chartreuse&font=Audiowide&ext=heatmap)
 
 
