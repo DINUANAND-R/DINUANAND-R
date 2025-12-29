@@ -1,10 +1,17 @@
 ## 👋 About Me
 
-- 🌱 Always learning and exploring new technologies  
-- 🛠️ Enjoys building practical, real-world applications  
-- 🧩 Loves problem-solving with clean and simple logic  
-- 📐 Focused on writing efficient, maintainable code  
-- ❤️ Sees coding as both a passion and a craft
+- 🌱 Always learning and improving as a developer
+
+- 🛠️ Focused on building useful, real-world solutions
+
+- 🧠 Strong problem-solving with a logical mindset
+
+- ✨ Clean, efficient, and maintainable coding practices
+
+## 🧭 Enginering
+<p align="center">
+ <b> To build clean, efficient, and impactful software while constantly improving technical skills and delivering real-world value.</b>
+</p>
 
 
 ## 💻Tech Stacks
@@ -69,7 +76,9 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=transparent&font=BIZ%20UDMincho&ext=heatmap)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=wtf&font=Lato&ext=heatmap" />
+</div>
 
 
 
