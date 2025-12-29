@@ -7,9 +7,9 @@
 - ❤️ Sees coding as both a passion and a craft
 
 
-## 💻 Programming Languages
+## 💻Tech Stacks
 
-## 💻 Programming Languages
+### Programing Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
