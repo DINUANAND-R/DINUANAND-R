@@ -52,18 +52,18 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="margin-right: 25px;"/><!-- increased space -->
-  <img src="https://img.icons8.com/arcade/64/github.png" title="GitHub" alt="GitHub" width="55" height="55" style="margin-right: 25px;"/>
-  <img src="https://img.icons8.com/fluency/48/visual-studio-code-insides.png" title="VS Code" alt="VS Code" width="55" height="55" style="margin-right: 25px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" title="Postman" alt="Postman" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="margin-right: 25px;"/><!-- increased space -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/arcade/64/github.png" title="GitHub" alt="GitHub" width="55" height="55" style="margin-right: 25px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-insides.png" title="VS Code" alt="VS Code" width="55" height="55" style="margin-right: 25px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" title="Postman" alt="Postman" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/socketdotio.svg" title="Socket.IO" alt="Socket.IO" width="55" height="55" style="margin-right: 25px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="55" height="55" style="margin-right: 25px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/remix.svg" title="Remix IDE" alt="Remix IDE" width="55" height="55" style="margin-right: 25px;"/>
-  <img src="https://img.icons8.com/nolan/64/wireshark--v1.png" title="Wireshark" alt="Wireshark" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/socketdotio.svg" title="Socket.IO" alt="Socket.IO" width="55" height="55" style="margin-right: 25px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="55" height="55" style="margin-right: 25px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/remix.svg" title="Remix IDE" alt="Remix IDE" width="55" height="55" style="margin-right: 25px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/nolan/64/wireshark--v1.png" title="Wireshark" alt="Wireshark" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
