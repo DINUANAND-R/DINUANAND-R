@@ -1,3 +1,7 @@
+<h1 align="center">
+  Hi 👋, I'm <a href="https://www.linkedin.com/in/dinu-anand-c-r-b4a39a292/" target="_blank"><i>DINU ANAND C R</i></a>
+</h1>
+
 
 
 
