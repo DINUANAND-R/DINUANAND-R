@@ -11,7 +11,7 @@
 
 ### Programing Languages
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 ## 🛠️ Frontend & Backend Tools
 
 ### 🔹 Frontend
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@
 </p>
 
 ### 🔹 Backend
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 
 ## 🗄️ Databases
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>
@@ -50,7 +50,7 @@
 
 ## 🧰 Tools & Technologies
 
-<p align="left">
+<p align="center">
   <!-- Row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="margin-right: 25px;"/><!-- increased space -->
   <img src="https://img.icons8.com/arcade/64/github.png" title="GitHub" alt="GitHub" width="55" height="55" style="margin-right: 25px;"/>
@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" title="Postman" alt="Postman" width="55" height="55"/>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/socketdotio.svg" title="Socket.IO" alt="Socket.IO" width="55" height="55" style="margin-right: 25px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="55" height="55" style="margin-right: 25px;"/>
